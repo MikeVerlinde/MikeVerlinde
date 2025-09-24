@@ -23,3 +23,11 @@ While the source code of these projects cannot be shared publicly, this portfoli
 **Keywords:** `AI`, `Full-Stack`, `Auth`, `Web3`<br>
 **Read more:** [Article](./projects/center-for-entrepreneurs.md)
 
+---
+
+### AgriSyst
+**Description:** Redesigned authentication system with a Keycloak-based solution, cutting costs by ~95% while strengthening security<br>
+**Type:** Internship<br>
+**Keywords:** `Auth`, `Full-Stack`<br>
+**Read more:** [Case study](./projects/agrisyst.md)
+
