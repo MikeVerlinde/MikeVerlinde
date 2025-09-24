@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Mike Verlinde!
 
-<!--
-**MikeVerlinde/MikeVerlinde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+What began as a passion for learning, designing, and building over a decade ago has grown into:
+- BSc in Software Engineering (Minor and Specialization in AI)
+- Five years of experience in Full-Stack development
+- Three years of experience in Web3 development
 
-Here are some ideas to get you started:
+### Skills
+**Languages and environments:** Typescript, Node.js, Python<br>
+**Frameworks and libraries:** React, Next.js, Express.js, Viem, Web3.js, Wagmi, LangGraph, TensorFlow<br>
+**Others:** Git, Docker, CI/CD, Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
