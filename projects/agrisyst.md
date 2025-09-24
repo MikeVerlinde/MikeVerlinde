@@ -18,6 +18,6 @@ Researched and compared authentication/authorization strategies: OAuth 2.0, Open
 **Technology**<br>
 `Keycloak`, `MySQL`, `Next.js`, `React`, `Express`, `Typescript`, `Node.js`, `Docker`, `HTML`, `CSS`
 
-**Deliverable**<br>
+**Solution preview**<br>
 Below is a screenshot of the custom-themed authentication portal:
 ![UI design AgriSyst auth portal](../assets/images/agrisyst.png)
