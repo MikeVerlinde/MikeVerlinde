@@ -15,3 +15,11 @@ Over the past years, I’ve completed 15+ commercial projects (including 8 decen
 
 While the source code of these projects cannot be shared publicly, this portfolio includes case studies highlighting their technology and impact, as well as sample projects that demonstrate my coding style.  
 
+---
+
+### Center for Entrepreneurs
+**Description:** Context-aware AI agent scaling to arbitrarily large toolsets, and a full-stack web app reducing initial delay by ~80%<br>
+**Type:** Graduation project<br>
+**Keywords:** `AI`, `Full-Stack`, `Auth`, `Web3`<br>
+**Read more:** [Article](./projects/center-for-entrepreneurs.md)
+
