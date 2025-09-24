@@ -10,4 +10,8 @@ What began as a passion for learning, designing, and building over a decade ago 
 **Frameworks and libraries:** React, Next.js, Express.js, Viem, Web3.js, Wagmi, LangGraph, TensorFlow<br>
 **Others:** Git, Docker, CI/CD, Figma
 
+# Projects
+Over the past years, I’ve completed 15+ commercial projects (including 8 decentralized applications) and 6 academic projects in collaboration with industry partners.  
+
+While the source code of these projects cannot be shared publicly, this portfolio includes case studies highlighting their technology and impact, as well as sample projects that demonstrate my coding style.  
 
