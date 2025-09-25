@@ -6,7 +6,7 @@ AgriSyst supports pig farmers worldwide with applications for collecting and ana
 As a Software Engineer Intern, I independently researched, prototyped, and presented authentication solutions in agile sprints.
 
 **Key contributions**<br>
-Researched and compared authentication/authorization strategies: OAuth 2.0, OpenID Connect, SAML 2.0, single sign-on, multifactor authentication, JWT vs sessions, reverse proxies, encryption, and hashing
+- Researched and compared authentication/authorization strategies: OAuth 2.0, OpenID Connect, SAML 2.0, single sign-on, multifactor authentication, JWT vs sessions, reverse proxies, encryption, and hashing
 - Developed and evaluated three prototypes: (1) custom password-based system, (2) direct OAuth 2.0 implementation, and (3) a Keycloak solution
 - Expanded the Keycloak prototype with MFA, LDAP/Active Directory integration, custom theming, and deployment scripts
 - Designed a UI/UX aligned with AgriSyst’s new branding
