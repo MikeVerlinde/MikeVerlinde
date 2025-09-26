@@ -38,3 +38,11 @@ While the source code of these projects cannot be shared publicly, this portfoli
 **Type:** Commercial project<br>
 **Keywords:**:`Web3`, `Full-Stack`<br>
 **Read more:** [Case study](./projects//web3-social-engagement.md) 
+
+---
+
+### Vos Bouwbedrijf
+**Description:** Redesigned and rebuilt a legacy website and CMS into a modern Next.js application, reducing admin time by 55% and improving load speed by ~80%<br>
+**Type:** Commercial project<br>
+**Keywords:** `Full-Stack`<br>
+**Read more:** [Case study](./projects/vos-bouwbedrijf.md)
