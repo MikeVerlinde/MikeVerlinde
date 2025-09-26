@@ -54,3 +54,11 @@ While the source code of these projects cannot be shared publicly, this portfoli
 **Type:** Commercial projects<br>
 **Keywords:** `Web3`, `Full-Stack`
 **Read more:** [Case study](./projects/web3-staking-dashboards.md)
+
+---
+
+### Care & Clean Facilities
+**Description:** Developed a high-performance Next.js website, achieving a 10× faster speed index than their main competitor<br>
+**Type:** Commercial project<br>
+**Keywords:** `Frontend`
+**Read more:** [Case study](./projects/care-and-clean-facilities.md)
