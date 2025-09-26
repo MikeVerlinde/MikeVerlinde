@@ -46,3 +46,11 @@ While the source code of these projects cannot be shared publicly, this portfoli
 **Type:** Commercial project<br>
 **Keywords:** `Full-Stack`<br>
 **Read more:** [Case study](./projects/vos-bouwbedrijf.md)
+
+---
+
+### Web3 Staking Dashboards
+**Description:** Designed and developed five staking dApps, enablign wallet connections and smart contract interactions, with traders collectively staking ~$10M in tokens<br>
+**Type:** Commercial projects<br>
+**Keywords:** `Web3`, `Full-Stack`
+**Read more:** [Case study](./projects/web3-staking-dashboards.md)
