@@ -31,3 +31,10 @@ While the source code of these projects cannot be shared publicly, this portfoli
 **Keywords:** `Auth`, `Full-Stack`<br>
 **Read more:** [Case study](./projects/agrisyst.md)
 
+---
+
+### Web3 Social Engagement
+**Description:** Co-founded and developed a Web3 platform with Telegram bot and full-stack web app, automating social media campaigns boosting engagement by up to 500%<br>
+**Type:** Commercial project<br>
+**Keywords:**:`Web3`, `Full-Stack`<br>
+**Read more:** [Case study](./projects//web3-social-engagement.md) 
