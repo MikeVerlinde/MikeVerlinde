@@ -52,7 +52,7 @@ While the source code of these projects cannot be shared publicly, this portfoli
 ### Web3 Staking Dashboards
 **Description:** Designed and developed five staking dApps, enablign wallet connections and smart contract interactions, with traders collectively staking ~$10M in tokens<br>
 **Type:** Commercial projects<br>
-**Keywords:** `Web3`, `Full-Stack`
+**Keywords:** `Web3`, `Full-Stack`<br>
 **Read more:** [Case study](./projects/web3-staking-dashboards.md)
 
 ---
@@ -60,5 +60,5 @@ While the source code of these projects cannot be shared publicly, this portfoli
 ### Care & Clean Facilities
 **Description:** Developed a high-performance Next.js website, achieving a 10× faster speed index than their main competitor<br>
 **Type:** Commercial project<br>
-**Keywords:** `Frontend`
+**Keywords:** `Frontend`<br>
 **Read more:** [Case study](./projects/care-and-clean-facilities.md)
