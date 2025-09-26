@@ -3,7 +3,7 @@
 Vos Bouwbedrijf, a construction company in the Netherlands, relied on a legacy CMS that didn’t match their workflow. Content updates were time-consuming, and the outdated website had poor performance and user experience.
 
 **My Role**<br>
-As a Freelance Full-Stack Developer, I designed and developed a new website and custom CMS.
+As a Freelance Software Engineer, I designed and developed a new website and custom CMS.
 
 **Key Contributions**<br>
 - Rebuilt the website and CMS as a modern full-stack Next.js application
